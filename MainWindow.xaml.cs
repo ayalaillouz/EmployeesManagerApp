@@ -95,7 +95,7 @@ namespace UI
                 }
             }
         }
-
+        //
         private void ClearAllFilters()
         {
             ComboBoxFilterOptions.SelectedItem = null; // מנקה את ה-ComboBox הראשון
