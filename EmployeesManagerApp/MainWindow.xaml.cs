@@ -47,8 +47,7 @@ namespace UI
         private void ComboBoxFilterCategory_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             string selectedRole = ComboBoxFilterCategory.SelectedItem as string;
-            CandidateDataGrid.Items.Clear();
-
+            employeesList.Clear();
             foreach (Employee emp in interviewsManager.GetAllEmployees())
             {
                 if (emp.RoleInCompany == selectedRole)
@@ -56,6 +55,7 @@ namespace UI
                     employeesList.Add(emp);
                 }
             }
+            CandidateDataGrid.ItemsSource = employeesList;
         }
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
