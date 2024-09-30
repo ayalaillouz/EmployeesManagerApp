@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SDNB1RO8aD/dJ8RohkB3ezBjOVPJGW3PGTUhwjzfHfGFx37muiCn0A6hKYoCv5rexvBT1HVoeMCB0CI+UquQTg==",
+  "dgSpecHash": "9ra7LhFH3Eg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\c#\\EmployeesManagerApp\\EmployeesManagerApp\\BL\\BL.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\c#\\2\\EmployeesManagerApp\\EmployeesManagerApp\\BL\\BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

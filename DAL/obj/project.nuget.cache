@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bN36xI0tjHc7ndJy1bxHO1o7sir7/v22Wx/mTs0Xszq18VgVljpBoq+cjmDYXGFu1nXuqdU8g8u+u99pNs7jPA==",
+  "dgSpecHash": "N553fduA108=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\c#\\EmployeesManagerApp\\EmployeesManagerApp\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\c#\\2\\EmployeesManagerApp\\EmployeesManagerApp\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

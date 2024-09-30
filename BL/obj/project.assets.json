@@ -1930,11 +1930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\c#\\EmployeesManagerApp\\EmployeesManagerApp\\BL\\BL.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\c#\\2\\EmployeesManagerApp\\EmployeesManagerApp\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "C:\\Users\\USER\\Documents\\c#\\EmployeesManagerApp\\EmployeesManagerApp\\BL\\BL.csproj",
+      "projectPath": "C:\\Users\\USER\\Documents\\c#\\2\\EmployeesManagerApp\\EmployeesManagerApp\\BL\\BL.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\c#\\EmployeesManagerApp\\EmployeesManagerApp\\BL\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\c#\\2\\EmployeesManagerApp\\EmployeesManagerApp\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1956,8 +1956,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\USER\\Documents\\c#\\EmployeesManagerApp\\EmployeesManagerApp\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\USER\\Documents\\c#\\EmployeesManagerApp\\EmployeesManagerApp\\DAL\\DAL.csproj"
+            "C:\\Users\\USER\\Documents\\c#\\2\\EmployeesManagerApp\\EmployeesManagerApp\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\USER\\Documents\\c#\\2\\EmployeesManagerApp\\EmployeesManagerApp\\DAL\\DAL.csproj"
             }
           }
         }
@@ -1992,7 +1992,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
